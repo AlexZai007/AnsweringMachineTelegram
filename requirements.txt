@@ -1,0 +1,3 @@
+Telethon~=1.26.0
+termcolor~=2.2.0
+Pyrogram~=2.0.93
