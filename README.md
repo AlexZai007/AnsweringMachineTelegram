@@ -1,4 +1,5 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Telegram+Auto+Answer)](https://git.io/typing-svg)
+![1](https://user-images.githubusercontent.com/52669201/212096641-09508dca-9491-43aa-bbca-d284faf2aca1.png)
+
 
 Convenient answering machine with only the most necessary functionality. No extra freezes.
 
